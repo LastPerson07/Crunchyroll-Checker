@@ -1,0 +1,5 @@
+customtkinter>=5.2.0
+curl_cffi>=0.7.0
+requests>=2.31.0
+PyJWT>=2.8.0
+pyinstaller>=6.0.0
