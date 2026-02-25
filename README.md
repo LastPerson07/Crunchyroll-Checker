@@ -215,7 +215,7 @@ Incoming check request
 
 ## 👥 Credits
 
-Built by **[LastPerson07](https://t.me/THEUPDATEDGUYS)**  
+Built by **[LastPerson07](https://github.com/LastPerson07)**  
 Presented by **[THE UPDATED GUYS 😎](https://t.me/THEUPDATEDGUYS)**
 
 Join us on Telegram for updates, new tools, and more:  
@@ -223,9 +223,7 @@ Join us on Telegram for updates, new tools, and more:
 
 ---
 
-<div align="center">
 
-**[⬆ Back to Top](#)**
 
 <br>
 
