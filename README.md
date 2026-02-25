@@ -60,7 +60,7 @@
 
 1. Go to the **Releases** page and download `Crunchyroll Checker v3
 `.
-2. Double-click to run — the GUI window opens instantly! No Python required.
+2. Double-click to run — the GUI window opens instantly!
 
 ---
 
