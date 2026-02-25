@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <strong><a href="https://ibb.co/rGpPkS3C">📸 Click here for demo photos</a></strong>
+  <strong><a href="https://ibb.co/mFTKmS2j">📸 Click here for demo photos</a></strong>
 </p>
 
 <br>
